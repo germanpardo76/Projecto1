@@ -1,1 +1,3 @@
-Cubo rubik
+Cubo German 5x5
+
+Tutorial para armar cubo 5x5
